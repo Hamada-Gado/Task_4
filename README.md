@@ -1,5 +1,7 @@
 # Advanced Computer Lab Tasks
+
 ### - Before coming to the lab !!
+
 * Make sure that you have **vs code** installed.
 * Make sure that you have **node** installed.
 * Make sure that you have **Postman** installed.
@@ -7,12 +9,15 @@
 * Make sure that the server is running with all installations.
 
 ### In case of any missing libraries. 
+
 - please fix and install everything before coming. Check the package-lock.json to see what you are missing.
 or you can just type in terminal to install all missing packages:
     ```
     npm install 
     ```
+
 # Testing
+
 After cloning the repo, open the source directory
 
 ```
@@ -62,4 +67,5 @@ Amr's groups:
  ```
 mongodb+srv://aclLab:si3R6zZJzR6xZDze@adiabgudb.cdrbkot.mongodb.net/
 ```
+
 ### **DO NOT COMMIT TO THIS REPO**
