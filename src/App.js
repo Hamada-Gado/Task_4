@@ -10,7 +10,7 @@ const { requireAuth } = require('./Middleware/authMiddleware');
 
 // THIS IS WRONG NEVER DO THAT !! Only for the task we put the DB Link here!! NEVER DO THAAAT AGAIN !!
 //Check db connection links in README file
-const MongoURI = 'mongodb+srv://Hadwa:hadwa1996@cluster0.hpstsct.mongodb.net/?retryWrites=true&w=majority' ;
+const MongoURI = process.env.MONGO_URI;
 const {getUsers, createBlog, filterBlog, getBlogs, login, signUp, logout}= require('./Controller/userController')
 
 
