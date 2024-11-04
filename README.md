@@ -55,7 +55,11 @@ Noha's groups:
  ``` 
  mongodb+srv://database:1234@cluster0.insh6i0.mongodb.net/
  ```
+Noha's groups (for orange users):
+ ```
+mongodb://database:<db_password>@ac-5otzmjg-shard-00-00.insh6i0.mongodb.net:27017,ac-5otzmjg-shard-00-01.insh6i0.mongodb.net:27017,ac-5otzmjg-shard-00-02.insh6i0.mongodb.net:27017/?ssl=true&replicaSet=atlas-b4fbz1-shard-0&authSource=admin&retryWrites=true&w=majority&appName=Cluster0
 
+ ```
 Nada's groups:
  ```
  mongodb+srv://atlasDB:atlasDB@cluster0.vt5cm.mongodb.net/
