@@ -43,7 +43,10 @@ Click here to check [Go](http://localhost:8000/home)
 Hadwa's groups:
  ```
  mongodb+srv://Hadwa:Hadwa@cluster0.hpstsct.mongodb.net/
-or (for orange users)
+
+ ```
+Hadwa's groups (for orange users):
+ ```
 mongodb://Hadwa:Hadwa@ac-tl77fwg-shard-00-00.hpstsct.mongodb.net:27017,ac-tl77fwg-shard-00-01.hpstsct.mongodb.net:27017,ac-tl77fwg-shard-00-02.hpstsct.mongodb.net:27017/?ssl=true&replicaSet=atlas-4jfj3v-shard-0&authSource=admin&retryWrites=true&w=majority&appName=Cluster0
 
  ```
